@@ -19,7 +19,7 @@ source.include_exts = py,png,jpg,kv,atlas
 #source.exclude_exts = spec
 
 # (list) List of directory to exclude (let empty to not exclude anything)
-source.exclude_dirs = libs
+#source.exclude_dirs = libs
 
 # (list) List of exclusions using pattern matching
 #source.exclude_patterns = README.md,screenshot.png
